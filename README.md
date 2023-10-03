@@ -1,5 +1,5 @@
 # Victor Lima Rattes
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]((https://www.linkedin.com/in/victor-rattes/))
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]((https://www.linkedin.com/in/victor-rattes/))<br>
 .NET DEVELOPER.<br>
 
 ### Contacts:<br>
