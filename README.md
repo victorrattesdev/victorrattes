@@ -1,5 +1,5 @@
 # Victor Lima Rattes
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-rattes/)<br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-rattes/)<br><br>
 .NET developer 💻 <br>
 
 ### Contacts:<br>
@@ -10,7 +10,7 @@ Rio de Janeiro;
 
 <div>
   <a href="https://github.com/victorrattesdev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrattesdev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" widht="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrattesdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Tecnologies
